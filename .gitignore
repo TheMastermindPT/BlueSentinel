@@ -1,0 +1,15 @@
+.makemd/
+.obsidian/
+.space/
+.trash/
+Vault.md
+
+# Good hygiene for any project:
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.old
+*.DS_Store
+.env
