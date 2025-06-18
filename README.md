@@ -5,11 +5,14 @@
 
 ## 📂 Folder Structure
 
-- `daily/` – Daily logs and notes, organized by date (e.g., 06-17-2025);
-- `drills/` – Practice exercises and drills;
-- `modules/` – Structured learning modules (with intros and resources);
-- `pictures/` – Screenshots and reference images;
-- `portfolio/` – Portfolio pieces or projects worth showcasing;
-- `reflections/` – Personal reflections and insights;
-- `resources/` – Collected resources, references, and links;
-- `scripts/` – PowerShell, Python, Bash scripts, etc. (with an intro);
+- `00-Setup/` — My environment configs, tools, and basic setup notes.
+- `01-Boxes/` — Per-HTB-box folders, broken into recon, exploitation, privesc, flags.
+- `02-Notes/` — Unfiltered daily logs, per-box discoveries, and rough ideas.
+- `03-Writeups/` — Polished, spoiler-free walkthroughs and lessons learned.
+- `04-Scripts/` — Handy scripts, one-liners, and code for repeatable tasks.
+- `05-Reflections/` — Milestones, hard lessons, and personal insights.
+- `06-Toolboxes/` — Quick-reference cheatsheets and other resources.
+
+## 📣 Want to Connect?
+
+- [LinkedIn](https://www.linkedin.com/in/pedromesquitacunha/)
