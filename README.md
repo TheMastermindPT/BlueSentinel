@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="/07 - portfolio/screenshots/18-06-2025_progress.png" alt="HTB SOC Analyst Progress" width="2000"/>
+  <img src="07 - portfolio/screenshots/Screenshot 2025-06-18 215725.png" alt="HTB SOC Analyst Progress" height="700"/>
 </p>
 
 ---
