@@ -4,6 +4,7 @@
 > Tools, hacks, battle scars, and all the ugly lessons in between.
 
 ---
+##### Proof I’m actually doing the work:
 
 <p align="center">
   <img src="07 - portfolio/screenshots/Screenshot 2025-06-18 215725.png" alt="HTB SOC Analyst Progress" height="700"/>
@@ -22,6 +23,8 @@
 - `06-Toolboxes/` — Quick-reference cheatsheets and other resources.
 
 ---
+
+***This isn’t just for me—if you’re new to blue team or HTB, steal what you need, or hit me up for collab***
 
 ## Want to Connect?
 
