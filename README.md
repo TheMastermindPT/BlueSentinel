@@ -1,7 +1,8 @@
 
 ## What you'll find here
 
-> In short: my messy, unfiltered journey from zero to “dangerous enough” in cybersecurity.
+> In short: My unfiltered grind from zero to "dangerous enough" in cybersecurity.
+Tools, hacks, battle scars, and all the ugly lessons in between.
 
 ## 📂 Folder Structure
 
