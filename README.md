@@ -13,6 +13,6 @@
 - `05-Reflections/` — Milestones, hard lessons, and personal insights.
 - `06-Toolboxes/` — Quick-reference cheatsheets and other resources.
 
-## 📣 Want to Connect?
+## Want to Connect?
 
 - [LinkedIn](https://www.linkedin.com/in/pedromesquitacunha/)
