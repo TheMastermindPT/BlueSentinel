@@ -1,8 +1,15 @@
-
 ## What you'll find here
 
-> In short: My unfiltered grind from zero to "dangerous enough" in cybersecurity.
-Tools, hacks, battle scars, and all the ugly lessons in between.
+> In short: My unfiltered grind from zero to "dangerous enough" in cybersecurity.  
+> Tools, hacks, battle scars, and all the ugly lessons in between.
+
+---
+
+<p align="center">
+  <img src="/07 - portfolio/screenshots/18-06-2025_progress.png" alt="HTB SOC Analyst Progress" width="2000"/>
+</p>
+
+---
 
 ## 📂 Folder Structure
 
@@ -14,6 +21,8 @@ Tools, hacks, battle scars, and all the ugly lessons in between.
 - `05-Reflections/` — Milestones, hard lessons, and personal insights.
 - `06-Toolboxes/` — Quick-reference cheatsheets and other resources.
 
+---
+
 ## Want to Connect?
 
-- [LinkedIn](https://www.linkedin.com/in/pedromesquitacunha/)
+[LinkedIn](https://www.linkedin.com/in/pedromesquitacunha/)
