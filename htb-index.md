@@ -2,9 +2,8 @@
 "Title:": Index-HTB
 tags:
   - navigation
-  - cybersecurity
-  - pentesting
   - index
+  - cyber/red
 "Created At:": 2025-06-17
 "Last Updated:": 2025-06-17
 "Author:": Pedro Perez Mesquita Cunha
