@@ -7,7 +7,7 @@
 ##### Proof I’m actually doing the work:
 
 <p align="center">
-  <img src="07 - portfolio/screenshots/Screenshot 2025-06-18 215725.png" alt="HTB SOC Analyst Progress" height="700"/>
+  <img src="portfolio/screenshots/Screenshot 2025-06-18 215725.png" alt="HTB SOC Analyst Progress" height="700"/>
 </p>
 
 ---
