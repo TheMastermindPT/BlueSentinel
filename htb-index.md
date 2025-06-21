@@ -3,7 +3,7 @@
 tags:
   - navigation
   - index
-  - cyber/red
+  - cyber
 "Created At:": 2025-06-17
 "Last Updated:": 2025-06-17
 "Author:": Pedro Perez Mesquita Cunha
