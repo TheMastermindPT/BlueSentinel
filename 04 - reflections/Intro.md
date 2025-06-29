@@ -1,1 +1,0 @@
-Weekly review, brutal self-assessment, gradient tweaks.
