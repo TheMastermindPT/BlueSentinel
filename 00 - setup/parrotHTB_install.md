@@ -28,13 +28,28 @@ tags:
 >   
 > - Use TMUX as multiplexer.
 
+## How to Install `xfreerdp`
 
+### Step-by-Step:
 
-
-
+1. **Update your repos (always good practice):**
+    
+    `sudo apt update`
+    
+2. **Install FreeRDP client:**
+    
+    `sudo apt install freerdp2-x11`
+    
+    - This will install `xfreerdp` and its dependencies.
+        
+3. **Verify installation:**
+    
+    `xfreerdp /version`
+    
+    - You should see version info, e.g. `This is FreeRDP version 2.x.x`.
 ## Steps:
 
-### **A. Increase Virtual Disk Size in VirtualBox**
+### A. Increase Virtual Disk Size in VirtualBox
 
 ```
 1. **Shut down the VM completely.**  
